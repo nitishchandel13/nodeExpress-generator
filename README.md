@@ -1,4 +1,4 @@
-Install node express generator app
+Install node express generator sample app
 
 Technologies
 
